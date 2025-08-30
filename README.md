@@ -1,6 +1,6 @@
 # tiktokusername.py
 اداة انشاء و فحص يوزرات تيك توك
-![image](https://github.com/lfillaz/tiktokusername.py/assets/114345508/142d9028-ab31-4685-ad69-7e0f27b95931)
+![image](https://github.com/lfillaz/tiktokusername.py/assets/114345508/142d9028-ab31-4685https-7e0f27b95931)
 أداة • Tikusercm.py 
 -----------
 • تقدر عن طريق الأداة انك تخليها تسوي العدد الي تبيه من اليوزرات و تفحصها بنفس الوقت 
